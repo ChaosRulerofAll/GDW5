@@ -3726,3 +3726,33 @@ Make sure '/Game/Blueprints/Character/BP_FPCharacter.BP_FPCharacter_C' has been 
 [2025.09.26-00.51.56:809][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.09.26-00.51.56:816][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
 [2025.09.26-00.51.56:856][872]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2025.09.26-00.54.08:089][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2025.09.26-00.54.08:092][119]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Worlds/TutorialWork' took 0.036
+[2025.09.26-00.54.08:092][119]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Imported_Mesh/Turret-Texture] ([1] browsable assets)...
+[2025.09.26-00.54.08:092][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imported_Mesh/Turret-Texture]
+[2025.09.26-00.54.08:115][119]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Imported_Mesh/Turret-Texture_Auto4
+[2025.09.26-00.54.08:115][119]LogSavePackage: Moving '../../../../../../Users/Gandalf/Desktop/dragons-hoard/School stuff/Year 3/GDW V/GDW5 Tutorials/ForTutorials/Saved/Turret-Texture_Auto4E9AE50B24D53255C098DC39BBC5E1783.tmp' to '../../../../../../Users/Gandalf/Desktop/dragons-hoard/School stuff/Year 3/GDW V/GDW5 Tutorials/ForTutorials/Saved/Autosaves/Game/Imported_Mesh/Turret-Texture_Auto4.uasset'
+[2025.09.26-00.54.08:116][119]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Imported_Mesh/Material] ([1] browsable assets)...
+[2025.09.26-00.54.08:116][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imported_Mesh/Material]
+[2025.09.26-00.54.08:123][119]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Imported_Mesh/Material_Auto4
+[2025.09.26-00.54.08:123][119]LogSavePackage: Moving '../../../../../../Users/Gandalf/Desktop/dragons-hoard/School stuff/Year 3/GDW V/GDW5 Tutorials/ForTutorials/Saved/Material_Auto440761AA04A24AD5C6D316D857D5715B5.tmp' to '../../../../../../Users/Gandalf/Desktop/dragons-hoard/School stuff/Year 3/GDW V/GDW5 Tutorials/ForTutorials/Saved/Autosaves/Game/Imported_Mesh/Material_Auto4.uasset'
+[2025.09.26-00.54.08:124][119]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Imported_Mesh/Turret] ([1] browsable assets)...
+[2025.09.26-00.54.08:124][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Imported_Mesh/Turret]
+[2025.09.26-00.54.08:130][119]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Imported_Mesh/Turret_Auto4
+[2025.09.26-00.54.08:130][119]LogSavePackage: Moving '../../../../../../Users/Gandalf/Desktop/dragons-hoard/School stuff/Year 3/GDW V/GDW5 Tutorials/ForTutorials/Saved/Turret_Auto4F03D70F1498F17618C32DE8889C259D4.tmp' to '../../../../../../Users/Gandalf/Desktop/dragons-hoard/School stuff/Year 3/GDW V/GDW5 Tutorials/ForTutorials/Saved/Autosaves/Game/Imported_Mesh/Turret_Auto4.uasset'
+[2025.09.26-00.54.08:131][119]LogFileHelpers: Auto-saving content packages took 0.039
+[2025.09.26-00.54.23:126][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-00.54.23:208][169]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Objects/Wall] ([2] browsable assets)...
+[2025.09.26-00.54.23:208][169]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Objects/Wall]
+[2025.09.26-00.54.23:223][169]LogSavePackage: Moving output files for package: /Game/Blueprints/Objects/Wall
+[2025.09.26-00.54.23:224][169]LogSavePackage: Moving '../../../../../../Users/Gandalf/Desktop/dragons-hoard/School stuff/Year 3/GDW V/GDW5 Tutorials/ForTutorials/Saved/WallA915ED9A4D1481D2A6B5D1BA99EF3268.tmp' to '../../../../../../Users/Gandalf/Desktop/dragons-hoard/School stuff/Year 3/GDW V/GDW5 Tutorials/ForTutorials/Content/Blueprints/Objects/Wall.uasset'
+[2025.09.26-00.54.23:237][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.412 ms (total: 16.1 sec)
+[2025.09.26-00.54.23:303][169]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.26-00.54.23:303][169]LogContentValidation: Enabled validators:
+[2025.09.26-00.54.23:303][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.26-00.54.23:303][169]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.26-00.54.23:303][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.26-00.54.23:303][169]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.26-00.54.23:303][169]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.26-00.54.23:303][169]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.26-00.54.23:303][169]AssetCheck: /Game/Blueprints/Objects/Wall Validating asset
