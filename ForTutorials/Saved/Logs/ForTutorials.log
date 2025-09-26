@@ -1826,3 +1826,8 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.26-01.35.56:453][619]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
 [2025.09.26-01.35.56:462][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
 [2025.09.26-01.35.56:556][620]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.09.26-01.36.21:195][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.26-01.36.21:332][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.09.26-01.36.21:368][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.09.26-01.36.21:392][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.09.26-01.36.21:406][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 209.997 ms (total: 2.44 sec)
